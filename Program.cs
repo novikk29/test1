@@ -1,6 +1,7 @@
 ﻿Console.Clear();
 string[] array1 = new string[6] {"hello","2","world",":-)","abc","777"};
 string[] array2 = new string[array1.Length];
+
 void SortedArray(string[] array1, string[] array2)
 {
     int count = 0;
